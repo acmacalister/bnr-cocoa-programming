@@ -1,0 +1,220 @@
+TWindowResize
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Info.plist WindowResize/WindowResize-Info.plist
+cProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/WindowResize-Prefix-dvenujhsinkstrazrnzyrzqnqxgx/WindowResize-Prefix.pch.pth WindowResize/WindowResize-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppDelegate.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize normal x86_64
+cCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/en.lproj/MainMenu.xib
+cCopyStringsFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Resources/en.lproj/InfoPlist.strings WindowResize/en.lproj/InfoPlist.strings
+cCpResource WindowResize/en.lproj/Credits.rtf build/Debug/WindowResize.app/Contents/Resources/en.lproj/Credits.rtf
+cTouch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051753FE800000000000000AA
+t1366638568
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000506CBDC700000000000025C8
+t1349303751
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000506CBDC700000000000001E5
+t1349303751
+s485
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/AppDelegate.h
+c000000005175684F0000000000000119
+t1366648911
+s281
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/AppDelegate.m
+c0000000051756A9600000000000001D4
+t1366649494
+s468
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/WindowResize-Prefix.pch
+c000000005175684F000000000000009B
+t1366648911
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/en.lproj/Credits.rtf
+c000000005175684F00000000000001B4
+t1366648911
+s436
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/en.lproj/InfoPlist.strings
+c000000005175684F000000000000002D
+t1366648911
+s45
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/en.lproj/MainMenu.xib
+c0000000051756ABC0000000000022B41
+t1366649532
+s142145
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/main.m
+c000000005175684F0000000000000101
+t1366648911
+s257
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app
+t1366649500
+s102
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Info.plist
+t1366649498
+s1395
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize
+t1366649499
+s15076
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/PkgInfo
+t1366649498
+s8
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Resources/en.lproj/Credits.rtf
+t1366649499
+s436
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1366649499
+s92
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Resources/en.lproj/MainMenu.nib
+t1366649500
+s26693
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppDelegate.o
+t1366649498
+s29268
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/WindowResize.LinkFileList
+c0000000051756A9A000000000000014B
+t1366649498
+s331
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.o
+t1366649498
+s2968
+
+N/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/WindowResize-Prefix-dvenujhsinkstrazrnzyrzqnqxgx/WindowResize-Prefix.pch.pth
+t1366649498
+s12887880
+
+NWindowResize/WindowResize-Info.plist
+c000000005175684F000000000000044F
+t1366648911
+s1103
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/AppDelegate.m
+r0
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies03efec3ca225b741^6b47ed3ca225b741^---0#1#0#--18"Check dependencies36"1DDEA61A-B2B7-47AD-BBE4-85B9B78F40BE-
+
+CCompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppDelegate.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388342298.929279
+e388342298.995080
+r1
+xCompileC
+xbuild/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/AppDelegate.mcafeed1aa225b741^90bdfe1aa225b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/AppDelegate.m0000000000000000^3715"CompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppDelegate.o WindowResize/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/WindowResize-Prefix-dvenujhsinkstrazrnzyrzqnqxgx/WindowResize-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppDelegate.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppDelegate.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/AppDelegate.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/AppDelegate.o"36"264DCF82-18EC-48D3-BAE9-ACAB9E050081-
+
+CCompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388342298.929345
+e388342298.980841
+r1
+xCompileC
+xbuild/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/main.m3202ee1aa225b741^7a17fb1aa225b741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/main.m0000000000000000^3673"CompileC build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.o WindowResize/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/WindowResize-Prefix-dvenujhsinkstrazrnzyrzqnqxgx/WindowResize-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/main.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/main.o"36"E94B4CB9-EA9E-4BC2-8AB0-73D8738EE02C-
+
+CCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/en.lproj/MainMenu.xib
+s388342332.958286
+e388342333.016421
+r1
+xCompileXIB
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compiling /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/en.lproj/MainMenu.xib3563f53ca225b741^b134043da225b741^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/en.lproj/MainMenu.xib0000000000000000^746"CompileXIB WindowResize/en.lproj/MainMenu.xib    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Resources/en.lproj/MainMenu.nib" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/en.lproj/MainMenu.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"63C0BCA0-1F07-4D22-BBAF-C30FE26139CB-
+
+CCopyStringsFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Resources/en.lproj/InfoPlist.strings WindowResize/en.lproj/InfoPlist.strings
+s388342299.727128
+e388342299.729801
+r1
+xCopyStringsFile
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Resources/en.lproj/InfoPlist.strings
+xWindowResize/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy WindowResize/en.lproj/InfoPlist.strings0d35ba1ba225b741^0bd4ba1ba225b741^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/en.lproj/InfoPlist.strings0000000000000000^498"CopyStringsFile build/Debug/WindowResize.app/Contents/Resources/en.lproj/InfoPlist.strings WindowResize/en.lproj/InfoPlist.strings    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Resources/en.lproj" -- WindowResize/en.lproj/InfoPlist.strings36"57B9A9CB-2DD8-4F7E-A07E-09E822473AA8-
+
+CCpResource WindowResize/en.lproj/Credits.rtf build/Debug/WindowResize.app/Contents/Resources/en.lproj/Credits.rtf
+s388342299.727160
+e388342299.732989
+r1
+xCpResource
+xWindowResize/en.lproj/Credits.rtf
+xbuild/Debug/WindowResize.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Debug/WindowResize.app/Contents/Resources/en.lproj/Credits.rtf3f35ba1ba225b741^d3a5bb1ba225b741^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^579"CpResource WindowResize/en.lproj/Credits.rtf build/Debug/WindowResize.app/Contents/Resources/en.lproj/Credits.rtf    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/en.lproj/Credits.rtf" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Resources/en.lproj"36"D88FC6A5-1E4C-49D7-9854-8525F9A6817D-
+
+CLd /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize normal x86_64
+s388342299.001746
+e388342299.718870
+r1
+xLd
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Link /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize9d82001ba225b741^dd07b81ba225b741^---0#0#0#--1036"Ld build/Debug/WindowResize.app/Contents/MacOS/WindowResize normal x86_64    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug" -filelist "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/Objects-normal/x86_64/WindowResize.LinkFileList" -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/MacOS/WindowResize"36"908C55D9-B036-496A-9FCA-5E2897E2DB92-
+
+CProcessInfoPlistFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Info.plist WindowResize/WindowResize-Info.plist
+s388342298.209540
+e388342298.212825
+r1
+xProcessInfoPlistFile
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Info.plist
+xWindowResize/WindowResize-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process WindowResize/WindowResize-Info.pliste1b7351aa225b741^c58e361aa225b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/WindowResize-Info.plist0000000000000000^583"ProcessInfoPlistFile build/Debug/WindowResize.app/Contents/Info.plist WindowResize/WindowResize-Info.plist    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize"    builtin-infoPlistUtility WindowResize/WindowResize-Info.plist -genpkginfo "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app/Contents/Info.plist"36"9B16294F-B04A-4DCE-B50C-C6A80A1C6C36-
+
+CProcessPCH /Users/austin/Library/Developer/Xcode/DerivedData/WindowResize-gezqirbgqjmffueguokcobtlwjdw/Index/PrecompiledHeaders/WindowResize-Prefix-gftieefetimqvmgaecknvwjmvsfz_ast/WindowResize-Prefix.pch.pth WindowResize/WindowResize-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/WindowResize-Prefix-dvenujhsinkstrazrnzyrzqnqxgx/WindowResize-Prefix.pch.pth WindowResize/WindowResize-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388342298.220982
+e388342298.922340
+r1
+xProcessPCH
+x/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/WindowResize-Prefix-dvenujhsinkstrazrnzyrzqnqxgx/WindowResize-Prefix.pch.pth
+xWindowResize/WindowResize-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile WindowResize/WindowResize-Prefix.pch64b1391aa225b741^b01dec1aa225b741^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/WindowResize-Prefix.pch0000000000000000^3649"ProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/WindowResize-Prefix-dvenujhsinkstrazrnzyrzqnqxgx/WindowResize-Prefix.pch.pth WindowResize/WindowResize-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/WindowResize-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/WindowResize.build/Debug/WindowResize.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug" --serialize-diagnostics /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/WindowResize-Prefix-dvenujhsinkstrazrnzyrzqnqxgx/WindowResize-Prefix.pch.dia -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/WindowResize/WindowResize-Prefix.pch" -o /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/WindowResize-Prefix-dvenujhsinkstrazrnzyrzqnqxgx/WindowResize-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/WindowResize-Prefix-dvenujhsinkstrazrnzyrzqnqxgx/WindowResize-Prefix.pch.d36"6F98343E-F5D6-4C25-AE4A-4C67A61E7109-
+
+CTouch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app
+s388342333.024450
+e388342333.030592
+r1
+xTouch
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.appd750063da225b741^bfd4073da225b741^---0#0#0#--263"Touch build/Debug/WindowResize.app    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize"    /usr/bin/touch -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/WindowResize/build/Debug/WindowResize.app"36"E9149B7E-AC69-4BC6-A171-1E24946EB053-
+

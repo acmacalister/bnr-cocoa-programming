@@ -1,0 +1,311 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D9D3DB561725CAE4005B4775 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9D3DB551725CAE4005B4775 /* Cocoa.framework */; };
+		D9D3DB601725CAE4005B4775 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D9D3DB5E1725CAE4005B4775 /* InfoPlist.strings */; };
+		D9D3DB621725CAE4005B4775 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D3DB611725CAE4005B4775 /* main.m */; };
+		D9D3DB661725CAE4005B4775 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = D9D3DB641725CAE4005B4775 /* Credits.rtf */; };
+		D9D3DB691725CAE4005B4775 /* KvcFunAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D9D3DB681725CAE4005B4775 /* KvcFunAppDelegate.m */; };
+		D9D3DB6C1725CAE5005B4775 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = D9D3DB6A1725CAE5005B4775 /* MainMenu.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D9D3DB521725CAE4005B4775 /* kvcFun.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kvcFun.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9D3DB551725CAE4005B4775 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		D9D3DB581725CAE4005B4775 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		D9D3DB591725CAE4005B4775 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		D9D3DB5A1725CAE4005B4775 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		D9D3DB5D1725CAE4005B4775 /* kvcFun-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "kvcFun-Info.plist"; sourceTree = "<group>"; };
+		D9D3DB5F1725CAE4005B4775 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D9D3DB611725CAE4005B4775 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D9D3DB631725CAE4005B4775 /* kvcFun-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "kvcFun-Prefix.pch"; sourceTree = "<group>"; };
+		D9D3DB651725CAE4005B4775 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		D9D3DB671725CAE4005B4775 /* KvcFunAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KvcFunAppDelegate.h; sourceTree = "<group>"; };
+		D9D3DB681725CAE4005B4775 /* KvcFunAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KvcFunAppDelegate.m; sourceTree = "<group>"; };
+		D9D3DB6B1725CAE5005B4775 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D9D3DB4F1725CAE4005B4775 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9D3DB561725CAE4005B4775 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D9D3DB491725CAE4005B4775 = {
+			isa = PBXGroup;
+			children = (
+				D9D3DB5B1725CAE4005B4775 /* kvcFun */,
+				D9D3DB541725CAE4005B4775 /* Frameworks */,
+				D9D3DB531725CAE4005B4775 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D9D3DB531725CAE4005B4775 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D9D3DB521725CAE4005B4775 /* kvcFun.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D9D3DB541725CAE4005B4775 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D9D3DB551725CAE4005B4775 /* Cocoa.framework */,
+				D9D3DB571725CAE4005B4775 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D9D3DB571725CAE4005B4775 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D9D3DB581725CAE4005B4775 /* AppKit.framework */,
+				D9D3DB591725CAE4005B4775 /* CoreData.framework */,
+				D9D3DB5A1725CAE4005B4775 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		D9D3DB5B1725CAE4005B4775 /* kvcFun */ = {
+			isa = PBXGroup;
+			children = (
+				D9D3DB671725CAE4005B4775 /* KvcFunAppDelegate.h */,
+				D9D3DB681725CAE4005B4775 /* KvcFunAppDelegate.m */,
+				D9D3DB6A1725CAE5005B4775 /* MainMenu.xib */,
+				D9D3DB5C1725CAE4005B4775 /* Supporting Files */,
+			);
+			path = kvcFun;
+			sourceTree = "<group>";
+		};
+		D9D3DB5C1725CAE4005B4775 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D9D3DB5D1725CAE4005B4775 /* kvcFun-Info.plist */,
+				D9D3DB5E1725CAE4005B4775 /* InfoPlist.strings */,
+				D9D3DB611725CAE4005B4775 /* main.m */,
+				D9D3DB631725CAE4005B4775 /* kvcFun-Prefix.pch */,
+				D9D3DB641725CAE4005B4775 /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D9D3DB511725CAE4005B4775 /* kvcFun */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D9D3DB6F1725CAE5005B4775 /* Build configuration list for PBXNativeTarget "kvcFun" */;
+			buildPhases = (
+				D9D3DB4E1725CAE4005B4775 /* Sources */,
+				D9D3DB4F1725CAE4005B4775 /* Frameworks */,
+				D9D3DB501725CAE4005B4775 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = kvcFun;
+			productName = kvcFun;
+			productReference = D9D3DB521725CAE4005B4775 /* kvcFun.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D9D3DB4A1725CAE4005B4775 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = KvcFun;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Basement Krew";
+			};
+			buildConfigurationList = D9D3DB4D1725CAE4005B4775 /* Build configuration list for PBXProject "kvcFun" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D9D3DB491725CAE4005B4775;
+			productRefGroup = D9D3DB531725CAE4005B4775 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D9D3DB511725CAE4005B4775 /* kvcFun */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D9D3DB501725CAE4005B4775 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9D3DB601725CAE4005B4775 /* InfoPlist.strings in Resources */,
+				D9D3DB661725CAE4005B4775 /* Credits.rtf in Resources */,
+				D9D3DB6C1725CAE5005B4775 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D9D3DB4E1725CAE4005B4775 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D9D3DB621725CAE4005B4775 /* main.m in Sources */,
+				D9D3DB691725CAE4005B4775 /* KvcFunAppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		D9D3DB5E1725CAE4005B4775 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D9D3DB5F1725CAE4005B4775 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		D9D3DB641725CAE4005B4775 /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D9D3DB651725CAE4005B4775 /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		D9D3DB6A1725CAE5005B4775 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D9D3DB6B1725CAE5005B4775 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D9D3DB6D1725CAE5005B4775 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		D9D3DB6E1725CAE5005B4775 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		D9D3DB701725CAE5005B4775 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "kvcFun/kvcFun-Prefix.pch";
+				INFOPLIST_FILE = "kvcFun/kvcFun-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		D9D3DB711725CAE5005B4775 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "kvcFun/kvcFun-Prefix.pch";
+				INFOPLIST_FILE = "kvcFun/kvcFun-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D9D3DB4D1725CAE4005B4775 /* Build configuration list for PBXProject "kvcFun" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9D3DB6D1725CAE5005B4775 /* Debug */,
+				D9D3DB6E1725CAE5005B4775 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D9D3DB6F1725CAE5005B4775 /* Build configuration list for PBXNativeTarget "kvcFun" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D9D3DB701725CAE5005B4775 /* Debug */,
+				D9D3DB711725CAE5005B4775 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D9D3DB4A1725CAE4005B4775 /* Project object */;
+}

@@ -1,0 +1,215 @@
+TToDo
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Info.plist ToDo/ToDo-Info.plist
+cProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo-Prefix-brkdcpzfgeldgjcqlekgzxaopwja/ToDo-Prefix.pch.pth ToDo/ToDo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDoAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo normal x86_64
+cCopyStringsFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Resources/en.lproj/InfoPlist.strings ToDo/en.lproj/InfoPlist.strings
+cCpResource ToDo/en.lproj/Credits.rtf build/Debug/ToDo.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/en.lproj/MainMenu.xib
+cTouch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051753FE800000000000000AA
+t1366638568
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000506CBDC700000000000025C8
+t1349303751
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000506CBDC700000000000001E5
+t1349303751
+s485
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDo-Prefix.pch
+c0000000051756C22000000000000008B
+t1366649890
+s139
+i<Cocoa/Cocoa.h>
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDoAppDelegate.m
+c000000005175897300000000000003AC
+t1366657395
+s940
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/en.lproj/Credits.rtf
+c0000000051756C2200000000000001B4
+t1366649890
+s436
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/en.lproj/InfoPlist.strings
+c0000000051756C22000000000000002D
+t1366649890
+s45
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/en.lproj/MainMenu.xib
+c00000000517586A50000000000029D38
+t1366656677
+s171320
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/main.m
+c0000000051756C2200000000000000F9
+t1366649890
+s249
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Info.plist
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Resources/en.lproj/Credits.rtf
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Resources/en.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDo.LinkFileList
+c0000000051758975000000000000011F
+t1366657397
+s287
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo-Prefix-brkdcpzfgeldgjcqlekgzxaopwja/ToDo-Prefix.pch.pth
+t2
+s0
+
+NToDo/ToDo-Info.plist
+c0000000051756C22000000000000044F
+t1366649890
+s1103
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDoAppDelegate.m
+r0
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf4162ff5c025b741^47e837f5c025b741^---0#1#0#--18"Check dependencies36"081F66D3-F3DC-416B-84F8-278A22523A73-
+
+CCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDoAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388350197.951768
+e388350198.073165
+r1
+xCompileC
+xbuild/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDoAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDoAppDelegate.md3bcf3f5c025b741^f1ba12f6c025b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDoAppDelegate.m0000000000000000^3411"CompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o ToDo/ToDoAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo-Prefix-brkdcpzfgeldgjcqlekgzxaopwja/ToDo-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDoAppDelegate.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDoAppDelegate.o"36"A2861614-0831-4CFC-B02B-9D6EE449A135-
+
+CCompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388350197.951762
+e388350197.975240
+r1
+xCompileC
+xbuild/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/main.m73bbf3f5c025b741^97a9f9f5c025b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/main.m0000000000000000^3345"CompileC build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o ToDo/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo-Prefix-brkdcpzfgeldgjcqlekgzxaopwja/ToDo-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/main.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/main.o"36"6B1D9233-C999-46F8-B141-147CE16CA688-
+
+CCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/en.lproj/MainMenu.xib
+s388350198.244769
+e388350198.776316
+r1
+xCompileXIB
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compiling /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/en.lproj/MainMenu.xib4ab63ef6c025b741^3db9c6f6c025b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/en.lproj/MainMenu.xib0000000000000000^698"CompileXIB ToDo/en.lproj/MainMenu.xib    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Resources/en.lproj/MainMenu.nib" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/en.lproj/MainMenu.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"99FCA2A3-F215-4804-B135-78A7E0D98AE1-
+
+CCopyStringsFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Resources/en.lproj/InfoPlist.strings ToDo/en.lproj/InfoPlist.strings
+s388350198.244746
+e388350198.247253
+r1
+xCopyStringsFile
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Resources/en.lproj/InfoPlist.strings
+xToDo/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy ToDo/en.lproj/InfoPlist.strings74b43ef6c025b741^d74b3ff6c025b741^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/en.lproj/InfoPlist.strings0000000000000000^450"CopyStringsFile build/Debug/ToDo.app/Contents/Resources/en.lproj/InfoPlist.strings ToDo/en.lproj/InfoPlist.strings    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Resources/en.lproj" -- ToDo/en.lproj/InfoPlist.strings36"6DBE2BA5-2726-449A-BDBA-6526C9ED78E7-
+
+CCpResource ToDo/en.lproj/Credits.rtf build/Debug/ToDo.app/Contents/Resources/en.lproj/Credits.rtf
+s388350198.244767
+e388350198.248048
+r1
+xCpResource
+xToDo/en.lproj/Credits.rtf
+xbuild/Debug/ToDo.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy build/Debug/ToDo.app/Contents/Resources/en.lproj/Credits.rtf85b43ef6c025b741^45803ff6c025b741^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^523"CpResource ToDo/en.lproj/Credits.rtf build/Debug/ToDo.app/Contents/Resources/en.lproj/Credits.rtf    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/en.lproj/Credits.rtf" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Resources/en.lproj"36"9B91AFD6-7026-46B5-8B9B-17AFE64D06C3-
+
+CLd /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo normal x86_64
+s388350198.079603
+e388350198.236559
+r1
+xLd
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo117014f6c025b741^008f3cf6c025b741^---0#0#0#--940"Ld build/Debug/ToDo.app/Contents/MacOS/ToDo normal x86_64    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug" -filelist "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/Objects-normal/x86_64/ToDo.LinkFileList" -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/MacOS/ToDo"36"015E3AA4-001F-45D2-ABB6-FD9ADEECA6C4-
+
+CProcessInfoPlistFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Info.plist ToDo/ToDo-Info.plist
+s388350197.221808
+e388350197.224665
+r1
+xProcessInfoPlistFile
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Info.plist
+xToDo/ToDo-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Process ToDo/ToDo-Info.plistd0d338f5c025b741^418339f5c025b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDo-Info.plist0000000000000000^503"ProcessInfoPlistFile build/Debug/ToDo.app/Contents/Info.plist ToDo/ToDo-Info.plist    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo"    builtin-infoPlistUtility ToDo/ToDo-Info.plist -genpkginfo "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app/Contents/Info.plist"36"1667D9BE-7B75-46C0-B6F1-B5F0872A64D2-
+
+CProcessPCH /Users/austin/Library/Developer/Xcode/DerivedData/ToDo-gvcbbrtthoepvtdpsbuthzjsuhao/Index/PrecompiledHeaders/ToDo-Prefix-foxhdhljtqyofoduqaxrsskpasin_ast/ToDo-Prefix.pch.pth ToDo/ToDo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo-Prefix-brkdcpzfgeldgjcqlekgzxaopwja/ToDo-Prefix.pch.pth ToDo/ToDo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388350197.232835
+e388350197.945132
+r1
+xProcessPCH
+x/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo-Prefix-brkdcpzfgeldgjcqlekgzxaopwja/ToDo-Prefix.pch.pth
+xToDo/ToDo-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection31"Precompile ToDo/ToDo-Prefix.pch6cb13bf5c025b741^fdfaf1f5c025b741^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDo-Prefix.pch0000000000000000^3345"ProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo-Prefix-brkdcpzfgeldgjcqlekgzxaopwja/ToDo-Prefix.pch.pth ToDo/ToDo-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/ToDo-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/ToDo.build/Debug/ToDo.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug" --serialize-diagnostics /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo-Prefix-brkdcpzfgeldgjcqlekgzxaopwja/ToDo-Prefix.pch.dia -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/ToDo/ToDo-Prefix.pch" -o /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo-Prefix-brkdcpzfgeldgjcqlekgzxaopwja/ToDo-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ToDo-Prefix-brkdcpzfgeldgjcqlekgzxaopwja/ToDo-Prefix.pch.d36"1B69B79D-56AF-4D76-B6F5-03E1029F0654-
+
+CTouch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app
+s388350198.784326
+e388350198.789227
+r1
+xTouch
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Touch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app41d5c8f6c025b741^c80acaf6c025b741^---0#0#0#--231"Touch build/Debug/ToDo.app    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo"    /usr/bin/touch -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter06/ToDo/build/Debug/ToDo.app"36"3B0C4425-E3C8-4EF8-8991-C03C19956554-
+

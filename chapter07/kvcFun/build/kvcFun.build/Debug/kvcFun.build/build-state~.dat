@@ -1,0 +1,215 @@
+TkvcFun
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Info.plist kvcFun/kvcFun-Info.plist
+cProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/kvcFun-Prefix-fqpnzgcryxmhedgydihmpbqcislc/kvcFun-Prefix.pch.pth kvcFun/kvcFun-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/KvcFunAppDelegate.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/KvcFunAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/main.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/MacOS/kvcFun normal x86_64
+cCopyStringsFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Resources/en.lproj/InfoPlist.strings kvcFun/en.lproj/InfoPlist.strings
+cCpResource kvcFun/en.lproj/Credits.rtf build/Debug/kvcFun.app/Contents/Resources/en.lproj/Credits.rtf
+cCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/en.lproj/MainMenu.xib
+cTouch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051753FE800000000000000AA
+t1366638568
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000506CBDC700000000000025C8
+t1349303751
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000506CBDC700000000000001E5
+t1349303751
+s485
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Info.plist
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/MacOS/kvcFun
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Resources/en.lproj/Credits.rtf
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Resources/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Resources/en.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/KvcFunAppDelegate.o
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/kvcFun.LinkFileList
+c00000000517596B3000000000000012D
+t1366660787
+s301
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/KvcFunAppDelegate.m
+c00000000517596060000000000000245
+t1366660614
+s581
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/en.lproj/Credits.rtf
+c000000005175936400000000000001B4
+t1366659940
+s436
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/en.lproj/InfoPlist.strings
+c0000000051759364000000000000002D
+t1366659940
+s45
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/en.lproj/MainMenu.xib
+c00000000517596B300000000000244C3
+t1366660787
+s148675
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/kvcFun-Prefix.pch
+c0000000051759364000000000000008F
+t1366659940
+s143
+i<Cocoa/Cocoa.h>
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/main.m
+c000000005175936400000000000000FB
+t1366659940
+s251
+
+N/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/kvcFun-Prefix-fqpnzgcryxmhedgydihmpbqcislc/kvcFun-Prefix.pch.pth
+t2
+s0
+
+NkvcFun/kvcFun-Info.plist
+c0000000051759364000000000000044F
+t1366659940
+s1103
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/KvcFunAppDelegate.m
+r0
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6ccfbc33ce25b741^78eec133ce25b741^---0#1#0#--18"Check dependencies36"38B7E6D9-C80A-449C-88A7-928C483E99AF-
+
+CCompileC build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/KvcFunAppDelegate.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/KvcFunAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388353588.335085
+e388353588.433467
+r1
+xCompileC
+xbuild/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/KvcFunAppDelegate.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/KvcFunAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/KvcFunAppDelegate.mc6dc5534ce25b741^6ef76e34ce25b741^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/KvcFunAppDelegate.m0000000000000000^3505"CompileC build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/KvcFunAppDelegate.o kvcFun/KvcFunAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/kvcFun-Prefix-fqpnzgcryxmhedgydihmpbqcislc/kvcFun-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/KvcFunAppDelegate.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/KvcFunAppDelegate.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/KvcFunAppDelegate.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/KvcFunAppDelegate.o"36"9AA7A8A8-9D93-45DC-B529-B66A4839D427-
+
+CCompileC build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/main.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388353588.335090
+e388353588.358733
+r1
+xCompileC
+xbuild/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/main.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/main.md7dc5534ce25b741^edd55b34ce25b741^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/main.m0000000000000000^3427"CompileC build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/main.o kvcFun/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/kvcFun-Prefix-fqpnzgcryxmhedgydihmpbqcislc/kvcFun-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/main.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/main.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/main.o"36"2B6A6759-95A3-4FD9-A598-0201AE6D1165-
+
+CCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/en.lproj/MainMenu.xib
+s388353588.516394
+e388353588.704628
+r1
+xCompileXIB
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compiling /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/en.lproj/MainMenu.xib29408434ce25b741^d462b434ce25b741^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/en.lproj/MainMenu.xib0000000000000000^710"CompileXIB kvcFun/en.lproj/MainMenu.xib    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Resources/en.lproj/MainMenu.nib" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/en.lproj/MainMenu.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"18542980-F82E-4762-93DF-6C19A90DC550-
+
+CCopyStringsFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Resources/en.lproj/InfoPlist.strings kvcFun/en.lproj/InfoPlist.strings
+s388353588.516280
+e388353588.520907
+r1
+xCopyStringsFile
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Resources/en.lproj/InfoPlist.strings
+xkvcFun/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Copy kvcFun/en.lproj/InfoPlist.strings07408434ce25b741^3a5a8534ce25b741^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/en.lproj/InfoPlist.strings0000000000000000^462"CopyStringsFile build/Debug/kvcFun.app/Contents/Resources/en.lproj/InfoPlist.strings kvcFun/en.lproj/InfoPlist.strings    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Resources/en.lproj" -- kvcFun/en.lproj/InfoPlist.strings36"7AD9CF35-9E55-4AB0-A28D-F82444771E6B-
+
+CCpResource kvcFun/en.lproj/Credits.rtf build/Debug/kvcFun.app/Contents/Resources/en.lproj/Credits.rtf
+s388353588.516313
+e388353588.518393
+r1
+xCpResource
+xkvcFun/en.lproj/Credits.rtf
+xbuild/Debug/kvcFun.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Debug/kvcFun.app/Contents/Resources/en.lproj/Credits.rtf113a8434ce25b741^78b58434ce25b741^---0#0#0#-19%DVTDocumentLocation2@155"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^537"CpResource kvcFun/en.lproj/Credits.rtf build/Debug/kvcFun.app/Contents/Resources/en.lproj/Credits.rtf    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/en.lproj/Credits.rtf" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Resources/en.lproj"36"7526334A-3651-4059-A0D3-A7EA6E9A5714-
+
+CLd /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/MacOS/kvcFun normal x86_64
+s388353588.440132
+e388353588.508576
+r1
+xLd
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/MacOS/kvcFun
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/MacOS/kvcFun95ba7034ce25b741^2b328234ce25b741^---0#0#0#--964"Ld build/Debug/kvcFun.app/Contents/MacOS/kvcFun normal x86_64    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug" -filelist "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/Objects-normal/x86_64/kvcFun.LinkFileList" -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/MacOS/kvcFun"36"A7BA4EAF-AB9F-4B0C-A1A0-7E2051F370A5-
+
+CProcessInfoPlistFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Info.plist kvcFun/kvcFun-Info.plist
+s388353587.760865
+e388353587.763721
+r1
+xProcessInfoPlistFile
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Info.plist
+xkvcFun/kvcFun-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Process kvcFun/kvcFun-Info.plist31d3c233ce25b741^1a8ac333ce25b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/kvcFun-Info.plist0000000000000000^523"ProcessInfoPlistFile build/Debug/kvcFun.app/Contents/Info.plist kvcFun/kvcFun-Info.plist    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun"    builtin-infoPlistUtility kvcFun/kvcFun-Info.plist -genpkginfo "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app/Contents/Info.plist"36"6BFD38F0-1045-429D-8A9E-5D11EE80FC72-
+
+CProcessPCH /Users/austin/Library/Developer/Xcode/DerivedData/kvcFun-ftjoadvlpskchbbiujdqkohdvjez/Index/PrecompiledHeaders/kvcFun-Prefix-bdybbmjoybbzbxasqpmxvaedstmu_ast/kvcFun-Prefix.pch.pth kvcFun/kvcFun-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/kvcFun-Prefix-fqpnzgcryxmhedgydihmpbqcislc/kvcFun-Prefix.pch.pth kvcFun/kvcFun-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388353587.772072
+e388353588.328501
+r1
+xProcessPCH
+x/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/kvcFun-Prefix-fqpnzgcryxmhedgydihmpbqcislc/kvcFun-Prefix.pch.pth
+xkvcFun/kvcFun-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile kvcFun/kvcFun-Prefix.pch34bcc533ce25b741^2f185434ce25b741^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/kvcFun-Prefix.pch0000000000000000^3421"ProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/kvcFun-Prefix-fqpnzgcryxmhedgydihmpbqcislc/kvcFun-Prefix.pch.pth kvcFun/kvcFun-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/kvcFun-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/kvcFun.build/Debug/kvcFun.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug" --serialize-diagnostics /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/kvcFun-Prefix-fqpnzgcryxmhedgydihmpbqcislc/kvcFun-Prefix.pch.dia -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/kvcFun/kvcFun-Prefix.pch" -o /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/kvcFun-Prefix-fqpnzgcryxmhedgydihmpbqcislc/kvcFun-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/kvcFun-Prefix-fqpnzgcryxmhedgydihmpbqcislc/kvcFun-Prefix.pch.d36"ACFA0AF7-07A2-42D6-8197-0779E3F14869-
+
+CTouch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app
+s388353588.712618
+e388353588.718136
+r1
+xTouch
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Touch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.appdd7db634ce25b741^f5d7b734ce25b741^---0#0#0#--239"Touch build/Debug/kvcFun.app    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun"    /usr/bin/touch -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter07/kvcFun/build/Debug/kvcFun.app"36"489D15D1-C3C6-41F3-90B6-2C85EDEF0BB2-
+
