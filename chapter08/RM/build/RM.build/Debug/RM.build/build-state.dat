@@ -1,0 +1,269 @@
+TRM
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Info.plist RM/RM-Info.plist
+cProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RM-Prefix-furlvzgrxsdncdcunifofnldtcqi/RM-Prefix.pch.pth RM/RM-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RM.build/Debug/RM.build/Objects-normal/x86_64/RMDocument.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RMDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RM.build/Debug/RM.build/Objects-normal/x86_64/Person.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RM.build/Debug/RM.build/Objects-normal/x86_64/main.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/MacOS/RM normal x86_64
+cCopyStringsFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj/InfoPlist.strings RM/en.lproj/InfoPlist.strings
+cCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/RMDocument.xib
+cCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/MainMenu.xib
+cCpResource RM/en.lproj/Credits.rtf build/Debug/RM.app/Contents/Resources/en.lproj/Credits.rtf
+cTouch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051753FE800000000000000AA
+t1366638568
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000506CBDC700000000000025C8
+t1349303751
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000506CBDC700000000000001E5
+t1349303751
+s485
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/Person.h
+c000000005175AB91000000000000014F
+t1366666129
+s335
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/Person.m
+c000000005175B3140000000000000229
+t1366668052
+s553
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RM-Prefix.pch
+c0000000051769AD80000000000000087
+t1366727384
+s135
+i<Cocoa/Cocoa.h>
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RMDocument.h
+c000000005176A203000000000000017D
+t1366729219
+s381
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RMDocument.m
+c000000005176A0EE0000000000000DE3
+t1366728942
+s3555
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/Credits.rtf
+c0000000051769AD800000000000001B4
+t1366727384
+s436
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/InfoPlist.strings
+c0000000051769AD8000000000000002D
+t1366727384
+s45
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/MainMenu.xib
+c0000000051769AD90000000000032BB9
+t1366727385
+s207801
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/RMDocument.xib
+c000000005176A366000000000000B0A5
+t1366729574
+s45221
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/main.m
+c0000000051769AD800000000000000F7
+t1366727384
+s247
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app
+t1366729575
+s102
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Info.plist
+t1366728942
+s1789
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/MacOS/RM
+t1366729219
+s23432
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/PkgInfo
+t1366728942
+s8
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj/Credits.rtf
+t1366728943
+s436
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1366728943
+s92
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj/MainMenu.nib
+t1366728944
+s25626
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj/RMDocument.nib
+t1366729575
+s10724
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/Person.o
+t1366728943
+s11576
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/RM.LinkFileList
+c000000005176A0EE0000000000000194
+t1366728942
+s404
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/RMDocument.o
+t1366729219
+s47928
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/main.o
+t1366728943
+s2920
+
+N/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RM-Prefix-furlvzgrxsdncdcunifofnldtcqi/RM-Prefix.pch.pth
+t1366728943
+s12887576
+
+NRM/RM-Info.plist
+c0000000051769AD8000000000000062F
+t1366727384
+s1583
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/Person.m
+r0
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RMDocument.m
+r0
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesbb6183e9da26b741^1a8a83e9da26b741^---0#1#0#--18"Check dependencies36"C12DEF85-A14E-4DBA-9815-51558C131CA0-
+
+CCompileC build/RM.build/Debug/RM.build/Objects-normal/x86_64/Person.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388421743.092203
+e388421743.192993
+r1
+xCompileC
+xbuild/RM.build/Debug/RM.build/Objects-normal/x86_64/Person.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/Person.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/Person.m5bb1176fd826b741^c269316fd826b741^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/Person.m0000000000000000^3275"CompileC build/RM.build/Debug/RM.build/Objects-normal/x86_64/Person.o RM/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RM-Prefix-furlvzgrxsdncdcunifofnldtcqi/RM-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/Person.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/Person.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/Person.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/Person.o"36"793065EF-B800-4B08-B8E6-F3A29908F57A-
+
+CCompileC build/RM.build/Debug/RM.build/Objects-normal/x86_64/RMDocument.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RMDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388422019.341265
+e388422019.389189
+r1
+xCompileC
+xbuild/RM.build/Debug/RM.build/Objects-normal/x86_64/RMDocument.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RMDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RMDocument.m2f855783d926b741^4da16383d926b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RMDocument.m0000000000000000^3299"CompileC build/RM.build/Debug/RM.build/Objects-normal/x86_64/RMDocument.o RM/RMDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RM-Prefix-furlvzgrxsdncdcunifofnldtcqi/RM-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/RMDocument.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/RMDocument.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RMDocument.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/RMDocument.o"36"389093D3-B628-4775-9D6E-CB122DF8B5AA-
+
+CCompileC build/RM.build/Debug/RM.build/Objects-normal/x86_64/main.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388421743.092190
+e388421743.178280
+r1
+xCompileC
+xbuild/RM.build/Debug/RM.build/Objects-normal/x86_64/main.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/main.mc0b1176fd826b741^f9a22d6fd826b741^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/main.m0000000000000000^3263"CompileC build/RM.build/Debug/RM.build/Objects-normal/x86_64/main.o RM/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RM-Prefix-furlvzgrxsdncdcunifofnldtcqi/RM-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/main.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/main.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/main.o"36"8C164316-E422-4835-8DFF-A4F2E874DA2A-
+
+CCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/MainMenu.xib
+s388421743.551069
+e388421744.063338
+r1
+xCompileXIB
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compiling /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/MainMenu.xibee258d6fd826b741^05341570d826b741^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/MainMenu.xib0000000000000000^686"CompileXIB RM/en.lproj/MainMenu.xib    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj/MainMenu.nib" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/MainMenu.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"18169AE6-F0E8-4199-B945-436F79465B6F-
+
+CCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/RMDocument.xib
+s388422374.991270
+e388422375.055717
+r1
+xCompileXIB
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/RMDocument.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compiling /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/RMDocument.xibe5d5fde6da26b741^b3410ee7da26b741^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/RMDocument.xib0000000000000000^692"CompileXIB RM/en.lproj/RMDocument.xib    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj/RMDocument.nib" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/RMDocument.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"617C8A39-01B5-43F7-8EED-76A831F09955-
+
+CCopyStringsFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj/InfoPlist.strings RM/en.lproj/InfoPlist.strings
+s388421743.551050
+e388421743.554434
+r1
+xCopyStringsFile
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj/InfoPlist.strings
+xRM/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Copy RM/en.lproj/InfoPlist.strings68218d6fd826b741^b20f8e6fd826b741^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/InfoPlist.strings0000000000000000^438"CopyStringsFile build/Debug/RM.app/Contents/Resources/en.lproj/InfoPlist.strings RM/en.lproj/InfoPlist.strings    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj" -- RM/en.lproj/InfoPlist.strings36"9B324571-13DC-42B9-8943-60339713AEDD-
+
+CCpResource RM/en.lproj/Credits.rtf build/Debug/RM.app/Contents/Resources/en.lproj/Credits.rtf
+s388421743.551055
+e388421743.553076
+r1
+xCpResource
+xRM/en.lproj/Credits.rtf
+xbuild/Debug/RM.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Copy build/Debug/RM.app/Contents/Resources/en.lproj/Credits.rtf36218d6fd826b741^74968d6fd826b741^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^509"CpResource RM/en.lproj/Credits.rtf build/Debug/RM.app/Contents/Resources/en.lproj/Credits.rtf    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/en.lproj/Credits.rtf" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Resources/en.lproj"36"F5E60BEF-FF5C-43B4-B1E7-D57CCB44E928-
+
+CLd /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/MacOS/RM normal x86_64
+s388422019.395763
+e388422019.425620
+r1
+xLd
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/MacOS/RM
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Link /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/MacOS/RM7d5e6583d926b741^2cf56c83d926b741^---0#0#0#--916"Ld build/Debug/RM.app/Contents/MacOS/RM normal x86_64    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug" -filelist "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/Objects-normal/x86_64/RM.LinkFileList" -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/MacOS/RM"36"63853F2B-8641-495E-BA3B-827F99F745E9-
+
+CProcessInfoPlistFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Info.plist RM/RM-Info.plist
+s388421742.514067
+e388421742.517098
+r1
+xProcessInfoPlistFile
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Info.plist
+xRM/RM-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection24"Process RM/RM-Info.plist72a4836ed826b741^7860846ed826b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RM-Info.plist0000000000000000^483"ProcessInfoPlistFile build/Debug/RM.app/Contents/Info.plist RM/RM-Info.plist    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM"    builtin-infoPlistUtility RM/RM-Info.plist -genpkginfo "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app/Contents/Info.plist"36"E3DFFC8A-0D4B-4C07-A268-FFF0F37ED039-
+
+CProcessPCH /Users/austin/Library/Developer/Xcode/DerivedData/RM-fnhgnkuoadgjxvbvsumkngstpijs/Index/PrecompiledHeaders/RM-Prefix-ddzhvtnvafxocybjshjlprqtxgfk_ast/RM-Prefix.pch.pth RM/RM-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RM-Prefix-furlvzgrxsdncdcunifofnldtcqi/RM-Prefix.pch.pth RM/RM-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388421742.525397
+e388421743.085351
+r1
+xProcessPCH
+x/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RM-Prefix-furlvzgrxsdncdcunifofnldtcqi/RM-Prefix.pch.pth
+xRM/RM-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection27"Precompile RM/RM-Prefix.pchaf93866ed826b741^9fe5156fd826b741^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RM-Prefix.pch0000000000000000^3269"ProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RM-Prefix-furlvzgrxsdncdcunifofnldtcqi/RM-Prefix.pch.pth RM/RM-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/RM-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/RM.build/Debug/RM.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug" --serialize-diagnostics /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RM-Prefix-furlvzgrxsdncdcunifofnldtcqi/RM-Prefix.pch.dia -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/RM/RM-Prefix.pch" -o /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RM-Prefix-furlvzgrxsdncdcunifofnldtcqi/RM-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RM-Prefix-furlvzgrxsdncdcunifofnldtcqi/RM-Prefix.pch.d36"E210BD25-E9D3-491F-B861-7F6F2D698E54-
+
+CTouch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app
+s388422375.063154
+e388422375.068464
+r1
+xTouch
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Touch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.appc93a10e7da26b741^ba8611e7da26b741^---0#0#0#--223"Touch build/Debug/RM.app    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM"    /usr/bin/touch -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RM/build/Debug/RM.app"36"DF38D937-F6AC-46BF-89E6-76DDC0E4B5B0-
+
