@@ -1,0 +1,472 @@
+TRaiseMan
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/Info.plist RaiseMan/RaiseMan-Info.plist
+cProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-bovmsxofwilynxgsdgmcnothzbhc/RaiseMan-Prefix.pch.pth RaiseMan/RaiseMan-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RMDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/MacOS/RaiseMan normal x86_64
+cCopyStringsFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/InfoPlist.strings RaiseMan/en.lproj/InfoPlist.strings
+cCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/RMDocument.xib
+cCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/MainMenu.xib
+cCpResource RaiseMan/en.lproj/Credits.rtf build/Debug/RaiseMan.app/Contents/Resources/en.lproj/Credits.rtf
+cTouch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051753FE800000000000000AA
+t1366638568
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000506CBDC700000000000025C8
+t1349303751
+s9672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c00000000506CBDC700000000000001E5
+t1349303751
+s485
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/Person.h
+c000000005175AB91000000000000014F
+t1366666129
+s335
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/Person.m
+c000000005175B3140000000000000229
+t1366668052
+s553
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RMDocument.h
+c000000005175AC6D000000000000011B
+t1366666349
+s283
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RMDocument.m
+c000000005175ACCC000000000000096C
+t1366666444
+s2412
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RaiseMan-Prefix.pch
+c000000005175A98B0000000000000093
+t1366665611
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/Credits.rtf
+c000000005175A98B00000000000001B4
+t1366665611
+s436
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/InfoPlist.strings
+c000000005175A98B000000000000002D
+t1366665611
+s45
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/MainMenu.xib
+c000000005175A98C0000000000032BDD
+t1366665612
+s207837
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/RMDocument.xib
+c0000000051769927000000000000B6D2
+t1366726951
+s46802
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/main.m
+c000000005175A98B00000000000000FD
+t1366665611
+s253
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app
+t1366726746
+s102
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Info.plist
+t1366666013
+s1807
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/MacOS/RaiseMan
+t1366668184
+s18168
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/PkgInfo
+t1366666013
+s8
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/Credits.rtf
+t1366667818
+s436
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1366667818
+s92
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/MainMenu.nib
+t1366667818
+s25656
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/RMDocument.nib
+t1366726746
+s11881
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.o
+t1366668184
+s11608
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.o
+t1366667818
+s26996
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RaiseMan.LinkFileList
+c000000005175AB1D00000000000001CA
+t1366666013
+s458
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.o
+t1366666014
+s2952
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/Person.h
+c000000005175AB91000000000000014F
+t1366666129
+s335
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/Person.m
+c000000005175B3140000000000000229
+t1366668052
+s553
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RMDocument.h
+c00000000517850CA000000000000022B
+t1366839498
+s555
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RMDocument.m
+c000000005178528C0000000000001480
+t1366839948
+s5248
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RaiseMan-Prefix.pch
+c000000005175A98B0000000000000093
+t1366665611
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/Credits.rtf
+c000000005175A98B00000000000001B4
+t1366665611
+s436
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/InfoPlist.strings
+c000000005175A98B000000000000002D
+t1366665611
+s45
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/MainMenu.xib
+c000000005175A98C0000000000032BDD
+t1366665612
+s207837
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/RMDocument.xib
+c0000000051785138000000000000BDB8
+t1366839608
+s48568
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/main.m
+c000000005175A98B00000000000000FD
+t1366665611
+s253
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app
+t1366838734
+s102
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/Info.plist
+t1366666013
+s1807
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/MacOS/RaiseMan
+t1366838734
+s23776
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/PkgInfo
+t1366666013
+s8
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/Credits.rtf
+t1366667818
+s436
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/InfoPlist.strings
+t1366667818
+s92
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/MainMenu.nib
+t1366667818
+s25656
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/RMDocument.nib
+t1366738351
+s11898
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.o
+t1366738350
+s11608
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.o
+t1366838733
+s37896
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RaiseMan.LinkFileList
+c000000005176C5AD00000000000001CA
+t1366738349
+s458
+
+N/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.o
+t1366738350
+s2952
+
+N/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-bovmsxofwilynxgsdgmcnothzbhc/RaiseMan-Prefix.pch.pth
+t1366738350
+s12887760
+
+N/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-etzzaltzhjnlqsfqojribnyczgeo/RaiseMan-Prefix.pch.pth
+t1366666013
+s12887760
+
+NRaiseMan/RaiseMan-Info.plist
+c000000005175A98B000000000000062F
+t1366665611
+s1583
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/Person.m
+r0
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RMDocument.m
+r0
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/main.m
+r0
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/Person.m
+r0
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RMDocument.m
+r0
+
+CBuild AST from /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies999cde0c8a28b741^7313e90c8a28b741^---0#1#0#--18"Check dependencies36"AC4A208F-3856-4ED4-BD67-0358CCF821B7-
+
+CCompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388360984.886964
+e388360984.920247
+r1
+xCompileC
+xbuild/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/Person.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/Person.me4f6e318eb25b741^5394eb18eb25b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/Person.m0000000000000000^3521"CompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.o RaiseMan/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-etzzaltzhjnlqsfqojribnyczgeo/RaiseMan-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/Person.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.o"36"F17A187D-3519-4950-A7B1-B6082965DEDA-
+
+CCompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388431150.814036
+e388431150.983755
+r1
+xCompileC
+xbuild/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/Person.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/Person.m037bd02efd26b741^c7d6fb2efd26b741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/Person.m0000000000000000^3521"CompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.o RaiseMan/Person.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-bovmsxofwilynxgsdgmcnothzbhc/RaiseMan-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/Person.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/Person.o"36"4C81089B-B65C-4289-8AAB-F31AA218806E-
+
+CCompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RMDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388360618.467824
+e388360618.521874
+r1
+xCompileC
+xbuild/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RMDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RMDocument.m5fb778aae925b741^61c185aae925b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RMDocument.m0000000000000000^3545"CompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.o RaiseMan/RMDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-etzzaltzhjnlqsfqojribnyczgeo/RaiseMan-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RMDocument.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.o"36"5BCAD821-1A00-4200-9773-03596EE5E4F1-
+
+CCompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RMDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388532748.929310
+e388532750.085191
+r1
+xCompileC
+xbuild/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RMDocument.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RMDocument.mc5ffed0c8a28b741^e1ce150e8a28b741^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RMDocument.m0000000000000000^3545"CompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.o RaiseMan/RMDocument.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-bovmsxofwilynxgsdgmcnothzbhc/RaiseMan-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RMDocument.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RMDocument.o"36"153909C8-6D23-47CF-8899-A4B88ECD6E35-
+
+CCompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388358814.020668
+e388358814.078917
+r1
+xCompileC
+xbuild/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/main.mda370b9ee225b741^c784149ee225b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/main.m0000000000000000^3509"CompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.o RaiseMan/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-etzzaltzhjnlqsfqojribnyczgeo/RaiseMan-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/main.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.o"36"BEEC3925-3981-4B69-9AA7-D7450D70E498-
+
+CCompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.o /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388431150.814009
+e388431150.959946
+r1
+xCompileC
+xbuild/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.o
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/main.mc07ad02efd26b741^6ebef52efd26b741^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/main.m0000000000000000^3509"CompileC build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.o RaiseMan/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug" -include /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-bovmsxofwilynxgsdgmcnothzbhc/RaiseMan-Prefix.pch -MMD -MT dependencies -MF "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.d" --serialize-diagnostics "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.dia" -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/main.m" -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/main.o"36"9031305A-FA81-4653-AC30-E9948D0DAEBF-
+
+CCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/MainMenu.xib
+s388360618.680614
+e388360618.796235
+r1
+xCompileXIB
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/MainMenu.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compiling /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/MainMenu.xibd3a0b0aae925b741^b77aceaae925b741^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/MainMenu.xib0000000000000000^722"CompileXIB RaiseMan/en.lproj/MainMenu.xib    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/MainMenu.nib" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/MainMenu.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"F5128DAF-8CBD-44C7-8C86-5D8A3BEFB6C7-
+
+CCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/RMDocument.xib
+s388419751.598916
+e388419752.030897
+r1
+xCompileXIB
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/RMDocument.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compiling /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/RMDocument.xibe89f9ca7d026b741^e75208a8d026b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/RMDocument.xib0000000000000000^728"CompileXIB RaiseMan/en.lproj/RMDocument.xib    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/RMDocument.nib" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/RMDocument.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"27325C9D-F619-4CA9-B0A1-0FDA202E17D8-
+
+CCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/MainMenu.xib
+r0
+
+CCompileXIB /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/RMDocument.xib
+s388532750.580361
+e388532753.949331
+r1
+xCompileXIB
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/RMDocument.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compiling /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/RMDocument.xib5aa1940e8a28b741^d506f3118a28b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/RMDocument.xib0000000000000000^728"CompileXIB RaiseMan/en.lproj/RMDocument.xib    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/RMDocument.nib" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/en.lproj/RMDocument.xib" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk36"16DE833C-B70D-4A3D-BFC7-346B3A1C50F3-
+
+CCopyStringsFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/InfoPlist.strings RaiseMan/en.lproj/InfoPlist.strings
+s388360618.680463
+e388360618.693019
+r1
+xCopyStringsFile
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/InfoPlist.strings
+xRaiseMan/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy RaiseMan/en.lproj/InfoPlist.strings06a1b0aae925b741^fc6fb1aae925b741^---0#0#0#-19%DVTDocumentLocation2@130"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/InfoPlist.strings0000000000000000^474"CopyStringsFile build/Debug/RaiseMan.app/Contents/Resources/en.lproj/InfoPlist.strings RaiseMan/en.lproj/InfoPlist.strings    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding UTF-16 --outdir "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj" -- RaiseMan/en.lproj/InfoPlist.strings36"E69E7BE2-962D-43EF-A971-74F4450AE8C8-
+
+CCopyStringsFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/InfoPlist.strings RaiseMan/en.lproj/InfoPlist.strings
+r0
+
+CCpResource RaiseMan/en.lproj/Credits.rtf build/Debug/RaiseMan.app/Contents/Resources/en.lproj/Credits.rtf
+s388360618.680471
+e388360618.690372
+r1
+xCpResource
+xRaiseMan/en.lproj/Credits.rtf
+xbuild/Debug/RaiseMan.app/Contents/Resources/en.lproj/Credits.rtf
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy build/Debug/RaiseMan.app/Contents/Resources/en.lproj/Credits.rtf2c45aeaae925b741^7bbcb0aae925b741^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj/Credits.rtf000000000080d041^551"CpResource RaiseMan/en.lproj/Credits.rtf build/Debug/RaiseMan.app/Contents/Resources/en.lproj/Credits.rtf    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/en.lproj/Credits.rtf" "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Resources/en.lproj"36"688E8C31-546E-4AB7-B71B-EDB4F409BEE6-
+
+CLd /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/MacOS/RaiseMan normal x86_64
+s388360984.948967
+e388360985.000549
+r1
+xLd
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/MacOS/RaiseMan
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/MacOS/RaiseMana801f318eb25b741^2c830219eb25b741^---0#0#0#--988"Ld build/Debug/RaiseMan.app/Contents/MacOS/RaiseMan normal x86_64    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug" -filelist "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RaiseMan.LinkFileList" -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/MacOS/RaiseMan"36"EE72B062-8A6A-4893-8298-D0C588E14DE8-
+
+CLd /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/MacOS/RaiseMan normal x86_64
+s388532750.092097
+e388532750.572636
+r1
+xLd
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/MacOS/RaiseMan
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Link /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/MacOS/RaiseManf5a1170e8a28b741^3598920e8a28b741^---0#0#0#--988"Ld build/Debug/RaiseMan.app/Contents/MacOS/RaiseMan normal x86_64    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug" -filelist "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/Objects-normal/x86_64/RaiseMan.LinkFileList" -mmacosx-version-min=10.8 -fobjc-arc -fobjc-link-runtime -framework Cocoa -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/MacOS/RaiseMan"36"6DB92DF1-2842-4BD4-A9C8-77D4B2F9325A-
+
+CProcessInfoPlistFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Info.plist RaiseMan/RaiseMan-Info.plist
+s388358813.264812
+e388358813.299892
+r1
+xProcessInfoPlistFile
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Info.plist
+xRaiseMan/RaiseMan-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process RaiseMan/RaiseMan-Info.plistea08449de225b741^c0af4d9de225b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RaiseMan-Info.plist0000000000000000^543"ProcessInfoPlistFile build/Debug/RaiseMan.app/Contents/Info.plist RaiseMan/RaiseMan-Info.plist    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan"    builtin-infoPlistUtility RaiseMan/RaiseMan-Info.plist -genpkginfo "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app/Contents/Info.plist"36"7AF58676-ECD6-4FE7-A81A-50041B17E561-
+
+CProcessInfoPlistFile /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app/Contents/Info.plist RaiseMan/RaiseMan-Info.plist
+r0
+
+CProcessPCH /Users/austin/Library/Developer/Xcode/DerivedData/RaiseMan-cerjyezudirnhbgbirophzbswuoz/Index/PrecompiledHeaders/RaiseMan-Prefix-bekosieahxggundsxbqmiphudojl_ast/RaiseMan-Prefix.pch.pth RaiseMan/RaiseMan-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/austin/Library/Developer/Xcode/DerivedData/RaiseMan-euzbtsgzqjsrfhhfttgpmtqcxbfx/Index/PrecompiledHeaders/RaiseMan-Prefix-blkphvcafqwvwwaubahwyysvvfif_ast/RaiseMan-Prefix.pch.pth RaiseMan/RaiseMan-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-bovmsxofwilynxgsdgmcnothzbhc/RaiseMan-Prefix.pch.pth RaiseMan/RaiseMan-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388431149.872066
+e388431150.807635
+r1
+xProcessPCH
+x/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-bovmsxofwilynxgsdgmcnothzbhc/RaiseMan-Prefix.pch.pth
+xRaiseMan/RaiseMan-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile RaiseMan/RaiseMan-Prefix.pch315edf2dfd26b741^6ac2ce2efd26b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RaiseMan-Prefix.pch0000000000000000^3497"ProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-bovmsxofwilynxgsdgmcnothzbhc/RaiseMan-Prefix.pch.pth RaiseMan/RaiseMan-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug" --serialize-diagnostics /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-bovmsxofwilynxgsdgmcnothzbhc/RaiseMan-Prefix.pch.dia -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/RaiseMan/RaiseMan-Prefix.pch" -o /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-bovmsxofwilynxgsdgmcnothzbhc/RaiseMan-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-bovmsxofwilynxgsdgmcnothzbhc/RaiseMan-Prefix.pch.d36"6EDBB838-D6A8-4DAF-B97A-B0C8B5B2D7FE-
+
+CProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-etzzaltzhjnlqsfqojribnyczgeo/RaiseMan-Prefix.pch.pth RaiseMan/RaiseMan-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s388358813.331521
+e388358814.014173
+r1
+xProcessPCH
+x/var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-etzzaltzhjnlqsfqojribnyczgeo/RaiseMan-Prefix.pch.pth
+xRaiseMan/RaiseMan-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile RaiseMan/RaiseMan-Prefix.pche318559de225b741^e8a0039ee225b741^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RaiseMan-Prefix.pch0000000000000000^3497"ProcessPCH /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-etzzaltzhjnlqsfqojribnyczgeo/RaiseMan-Prefix.pch.pth RaiseMan/RaiseMan-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -g -Wno-sign-conversion -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-generated-files.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-own-target-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-all-target-headers.hmap" -iquote "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/RaiseMan-project-headers.hmap" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources/x86_64" "-I/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/RaiseMan.build/Debug/RaiseMan.build/DerivedSources" "-F/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug" --serialize-diagnostics /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-etzzaltzhjnlqsfqojribnyczgeo/RaiseMan-Prefix.pch.dia -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/RaiseMan/RaiseMan-Prefix.pch" -o /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-etzzaltzhjnlqsfqojribnyczgeo/RaiseMan-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/_3/svhw9vjx7sdf45n04632yhqh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/RaiseMan-Prefix-etzzaltzhjnlqsfqojribnyczgeo/RaiseMan-Prefix.pch.d36"441CE067-7504-4B51-81CF-8B4703C95A76-
+
+CTouch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app
+s388419752.047856
+e388419752.081711
+r1
+xTouch
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Touch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.appfa9b0ca8d026b741^bf1016a8d026b741^---0#0#0#--247"Touch build/Debug/RaiseMan.app    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan"    /usr/bin/touch -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter08/RaiseMan/build/Debug/RaiseMan.app"36"4BCA49ED-69C1-4F63-940E-C59A8936A6D7-
+
+CTouch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app
+s388532753.957382
+e388532754.035551
+r1
+xTouch
+x/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Touch /Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.appfb22f5118a28b741^ac1909128a28b741^---0#0#0#--247"Touch build/Debug/RaiseMan.app    cd "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan"    /usr/bin/touch -c "/Users/austin/Documents/austin's_code/bnr-cocoa-programming/chapter09/RaiseMan/build/Debug/RaiseMan.app"36"0CA5E76A-0E44-4E8C-8553-FC2112155F82-
+

@@ -1,0 +1,340 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6BBA5BF117307B7E0029D9A1 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6BBA5BF017307B7E0029D9A1 /* Cocoa.framework */; };
+		6BBA5BFB17307B7E0029D9A1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6BBA5BF917307B7E0029D9A1 /* InfoPlist.strings */; };
+		6BBA5BFD17307B7E0029D9A1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BBA5BFC17307B7E0029D9A1 /* main.m */; };
+		6BBA5C0117307B7E0029D9A1 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 6BBA5BFF17307B7E0029D9A1 /* Credits.rtf */; };
+		6BBA5C0417307B7E0029D9A1 /* MyDocument.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BBA5C0317307B7E0029D9A1 /* MyDocument.m */; };
+		6BBA5C0717307B7E0029D9A1 /* MyDocument.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6BBA5C0517307B7E0029D9A1 /* MyDocument.xib */; };
+		6BBA5C0A17307B7E0029D9A1 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6BBA5C0817307B7E0029D9A1 /* MainMenu.xib */; };
+		6BBA5C0D17307B7E0029D9A1 /* MyDocument.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6BBA5C0B17307B7E0029D9A1 /* MyDocument.xcdatamodeld */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6BBA5BED17307B7E0029D9A1 /* CarLot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarLot.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BBA5BF017307B7E0029D9A1 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		6BBA5BF317307B7E0029D9A1 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		6BBA5BF417307B7E0029D9A1 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		6BBA5BF517307B7E0029D9A1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		6BBA5BF817307B7E0029D9A1 /* CarLot-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CarLot-Info.plist"; sourceTree = "<group>"; };
+		6BBA5BFA17307B7E0029D9A1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6BBA5BFC17307B7E0029D9A1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		6BBA5BFE17307B7E0029D9A1 /* CarLot-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CarLot-Prefix.pch"; sourceTree = "<group>"; };
+		6BBA5C0017307B7E0029D9A1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		6BBA5C0217307B7E0029D9A1 /* MyDocument.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyDocument.h; sourceTree = "<group>"; };
+		6BBA5C0317307B7E0029D9A1 /* MyDocument.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyDocument.m; sourceTree = "<group>"; };
+		6BBA5C0617307B7E0029D9A1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MyDocument.xib; sourceTree = "<group>"; };
+		6BBA5C0917307B7E0029D9A1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		6BBA5C0C17307B7E0029D9A1 /* MyDocument.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MyDocument.xcdatamodel; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6BBA5BEA17307B7E0029D9A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6BBA5BF117307B7E0029D9A1 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6BBA5BE417307B7E0029D9A1 = {
+			isa = PBXGroup;
+			children = (
+				6BBA5BF617307B7E0029D9A1 /* CarLot */,
+				6BBA5BEF17307B7E0029D9A1 /* Frameworks */,
+				6BBA5BEE17307B7E0029D9A1 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6BBA5BEE17307B7E0029D9A1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6BBA5BED17307B7E0029D9A1 /* CarLot.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6BBA5BEF17307B7E0029D9A1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6BBA5BF017307B7E0029D9A1 /* Cocoa.framework */,
+				6BBA5BF217307B7E0029D9A1 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6BBA5BF217307B7E0029D9A1 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				6BBA5BF317307B7E0029D9A1 /* AppKit.framework */,
+				6BBA5BF417307B7E0029D9A1 /* CoreData.framework */,
+				6BBA5BF517307B7E0029D9A1 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		6BBA5BF617307B7E0029D9A1 /* CarLot */ = {
+			isa = PBXGroup;
+			children = (
+				6BBA5C0217307B7E0029D9A1 /* MyDocument.h */,
+				6BBA5C0317307B7E0029D9A1 /* MyDocument.m */,
+				6BBA5C0517307B7E0029D9A1 /* MyDocument.xib */,
+				6BBA5C0817307B7E0029D9A1 /* MainMenu.xib */,
+				6BBA5C0B17307B7E0029D9A1 /* MyDocument.xcdatamodeld */,
+				6BBA5BF717307B7E0029D9A1 /* Supporting Files */,
+			);
+			path = CarLot;
+			sourceTree = "<group>";
+		};
+		6BBA5BF717307B7E0029D9A1 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				6BBA5BF817307B7E0029D9A1 /* CarLot-Info.plist */,
+				6BBA5BF917307B7E0029D9A1 /* InfoPlist.strings */,
+				6BBA5BFC17307B7E0029D9A1 /* main.m */,
+				6BBA5BFE17307B7E0029D9A1 /* CarLot-Prefix.pch */,
+				6BBA5BFF17307B7E0029D9A1 /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6BBA5BEC17307B7E0029D9A1 /* CarLot */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6BBA5C1017307B7E0029D9A1 /* Build configuration list for PBXNativeTarget "CarLot" */;
+			buildPhases = (
+				6BBA5BE917307B7E0029D9A1 /* Sources */,
+				6BBA5BEA17307B7E0029D9A1 /* Frameworks */,
+				6BBA5BEB17307B7E0029D9A1 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CarLot;
+			productName = CarLot;
+			productReference = 6BBA5BED17307B7E0029D9A1 /* CarLot.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6BBA5BE517307B7E0029D9A1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = My;
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Basement Krew";
+			};
+			buildConfigurationList = 6BBA5BE817307B7E0029D9A1 /* Build configuration list for PBXProject "CarLot" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 6BBA5BE417307B7E0029D9A1;
+			productRefGroup = 6BBA5BEE17307B7E0029D9A1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6BBA5BEC17307B7E0029D9A1 /* CarLot */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6BBA5BEB17307B7E0029D9A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6BBA5BFB17307B7E0029D9A1 /* InfoPlist.strings in Resources */,
+				6BBA5C0117307B7E0029D9A1 /* Credits.rtf in Resources */,
+				6BBA5C0717307B7E0029D9A1 /* MyDocument.xib in Resources */,
+				6BBA5C0A17307B7E0029D9A1 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6BBA5BE917307B7E0029D9A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6BBA5BFD17307B7E0029D9A1 /* main.m in Sources */,
+				6BBA5C0417307B7E0029D9A1 /* MyDocument.m in Sources */,
+				6BBA5C0D17307B7E0029D9A1 /* MyDocument.xcdatamodeld in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		6BBA5BF917307B7E0029D9A1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6BBA5BFA17307B7E0029D9A1 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		6BBA5BFF17307B7E0029D9A1 /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6BBA5C0017307B7E0029D9A1 /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		6BBA5C0517307B7E0029D9A1 /* MyDocument.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6BBA5C0617307B7E0029D9A1 /* en */,
+			);
+			name = MyDocument.xib;
+			sourceTree = "<group>";
+		};
+		6BBA5C0817307B7E0029D9A1 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6BBA5C0917307B7E0029D9A1 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6BBA5C0E17307B7E0029D9A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		6BBA5C0F17307B7E0029D9A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		6BBA5C1117307B7E0029D9A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CarLot/CarLot-Prefix.pch";
+				INFOPLIST_FILE = "CarLot/CarLot-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		6BBA5C1217307B7E0029D9A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CarLot/CarLot-Prefix.pch";
+				INFOPLIST_FILE = "CarLot/CarLot-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6BBA5BE817307B7E0029D9A1 /* Build configuration list for PBXProject "CarLot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6BBA5C0E17307B7E0029D9A1 /* Debug */,
+				6BBA5C0F17307B7E0029D9A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6BBA5C1017307B7E0029D9A1 /* Build configuration list for PBXNativeTarget "CarLot" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6BBA5C1117307B7E0029D9A1 /* Debug */,
+				6BBA5C1217307B7E0029D9A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		6BBA5C0B17307B7E0029D9A1 /* MyDocument.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				6BBA5C0C17307B7E0029D9A1 /* MyDocument.xcdatamodel */,
+			);
+			currentVersion = 6BBA5C0C17307B7E0029D9A1 /* MyDocument.xcdatamodel */;
+			path = MyDocument.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 6BBA5BE517307B7E0029D9A1 /* Project object */;
+}
