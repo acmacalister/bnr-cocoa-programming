@@ -37,4 +37,27 @@
     return YES;
 }
 
+-(IBAction)createCar:(id)sender
+{
+    NSWindow *w = [tableView window];
+    BOOL editingEnded = [w makeFirstResponder:w];
+    if(!editingEnded)
+        return;
+    NSUndoManager *undo = [self undoManager];
+    if([undo groupingLevel] > 0)
+    {
+        [undo endUndoGrouping];
+        [undo beginUndoGrouping];
+    }
+    
+    id obj = [carController newObject];
+    [carController addObject:obj];
+    [carController rearrangeObjects];
+    NSArray *a = [carController arrangedObjects];
+    
+    NSUInteger row = [a indexOfObjectIdenticalTo:obj];
+    
+    [tableView editColumn:0 row:row withEvent:nil select:YES];
+}
+
 @end

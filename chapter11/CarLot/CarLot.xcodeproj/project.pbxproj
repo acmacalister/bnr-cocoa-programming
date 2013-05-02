@@ -15,6 +15,7 @@
 		6BBA5C0717307B7E0029D9A1 /* MyDocument.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6BBA5C0517307B7E0029D9A1 /* MyDocument.xib */; };
 		6BBA5C0A17307B7E0029D9A1 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6BBA5C0817307B7E0029D9A1 /* MainMenu.xib */; };
 		6BBA5C0D17307B7E0029D9A1 /* MyDocument.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6BBA5C0B17307B7E0029D9A1 /* MyDocument.xcdatamodeld */; };
+		6BBA5C1517317A500029D9A1 /* CarArrayController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BBA5C1417317A500029D9A1 /* CarArrayController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,8 @@
 		6BBA5C0617307B7E0029D9A1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MyDocument.xib; sourceTree = "<group>"; };
 		6BBA5C0917307B7E0029D9A1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		6BBA5C0C17307B7E0029D9A1 /* MyDocument.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MyDocument.xcdatamodel; sourceTree = "<group>"; };
+		6BBA5C1317317A500029D9A1 /* CarArrayController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CarArrayController.h; sourceTree = "<group>"; };
+		6BBA5C1417317A500029D9A1 /* CarArrayController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CarArrayController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +89,8 @@
 		6BBA5BF617307B7E0029D9A1 /* CarLot */ = {
 			isa = PBXGroup;
 			children = (
+				6BBA5C1317317A500029D9A1 /* CarArrayController.h */,
+				6BBA5C1417317A500029D9A1 /* CarArrayController.m */,
 				6BBA5C0217307B7E0029D9A1 /* MyDocument.h */,
 				6BBA5C0317307B7E0029D9A1 /* MyDocument.m */,
 				6BBA5C0517307B7E0029D9A1 /* MyDocument.xib */,
@@ -177,6 +182,7 @@
 				6BBA5BFD17307B7E0029D9A1 /* main.m in Sources */,
 				6BBA5C0417307B7E0029D9A1 /* MyDocument.m in Sources */,
 				6BBA5C0D17307B7E0029D9A1 /* MyDocument.xcdatamodeld in Sources */,
+				6BBA5C1517317A500029D9A1 /* CarArrayController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

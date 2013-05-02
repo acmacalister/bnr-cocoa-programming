@@ -7,7 +7,14 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#import "CarArrayController.h"
 
 @interface MyDocument : NSPersistentDocument
+{
+    IBOutlet NSTableView *tableView;
+    IBOutlet CarArrayController *carController;
+}
+
+-(IBAction)createCar:(id)sender;
 
 @end
